@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import numpy as np
 import json
 import csv
 from datetime import datetime, date, timedelta
@@ -9,7 +8,7 @@ import time
 SEASON_START  = date(2026, 3, 1)
 SEASON_END    = date(2026, 6, 15)
 BASE_URL      = "https://www.mshsaa.org/activities/scoreboard.aspx?alg=3&date={}"
-MAX_RUNS      = 40
+MAX_RUNS      = 20
 OUTPUT_PATH   = "spring_softball_ratings.json"
 CSV_PATH      = "spring_softball_scoreboard.csv"
 ITERATIONS    = 1000
@@ -46,6 +45,9 @@ def scrape_date(target_date):
  
     soup  = BeautifulSoup(resp.text, "html.parser")
     games = []
+ 
+    print(f"  Page length: {len(resp.text)} chars")
+    print(f"  Tables found: {len(soup.find_all('table'))}")
  
     for table in soup.find_all("table"):
         rows = table.find_all("tr")
