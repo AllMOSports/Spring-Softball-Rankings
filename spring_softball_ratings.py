@@ -7,7 +7,7 @@ import time
  
 SEASON_START  = date(2026, 3, 1)
 SEASON_END    = date(2026, 6, 15)
-BASE_URL      = "https://www.mshsaa.org/activities/scoreboard.aspx?alg=3&date={}"
+BASE_URL      = "https://www.mshsaa.org/activities/scoreboard.aspx?alg=68&date={}"
 MAX_RUNS      = 40
 OUTPUT_PATH   = "spring_softball_ratings.json"
 CSV_PATH      = "spring_softball_scoreboard.csv"
