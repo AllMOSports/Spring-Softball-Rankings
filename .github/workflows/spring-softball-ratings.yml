@@ -1,29 +1,29 @@
 name: Spring Softball Ratings
-
+ 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Runs daily at 8 AM UTC — adjust as needed
-  workflow_dispatch:       # Allows manual triggering
-
+    - cron: '0 8 * * *'  # Runs daily at 8 AM UTC
+  workflow_dispatch:       # Allows manual triggering from GitHub Actions tab
+ 
 jobs:
   run-ratings:
     runs-on: ubuntu-latest
-
+ 
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-
+ 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
+ 
       - name: Install dependencies
         run: pip install requests beautifulsoup4
-
+ 
       - name: Run Spring Softball Ratings
-        run: python Spring_Softball_Rankings.py
-
+        run: python spring_softball_ratings.py
+ 
       - name: Commit and push results
         run: |
           git config --global user.name "github-actions"
@@ -31,3 +31,4 @@ jobs:
           git add spring_softball_ratings.json spring_softball_scoreboard.csv
           git diff --cached --quiet || git commit -m "Update spring softball ratings"
           git push
+ 
