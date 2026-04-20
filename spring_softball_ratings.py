@@ -1,6 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import numpy as np
 import json
 import csv
 from datetime import datetime, date, timedelta
@@ -9,7 +8,7 @@ import time
 SEASON_START  = date(2026, 3, 1)
 SEASON_END    = date(2026, 6, 15)
 BASE_URL      = "https://www.mshsaa.org/activities/scoreboard.aspx?alg=68&date={}"
-MAX_RUNS      = 39
+MAX_RUNS      = 30
 OUTPUT_PATH   = "ratings.json"
 CLASS_PATH    = "classifications.json"
 CLASS_OUTPUTS = {i: f"ratings_class{i}.json" for i in range(1, 3)}
@@ -287,4 +286,3 @@ if __name__ == "__main__":
     save_class_json(off_rating, def_rating, ovr_rating, league_avg, classifications)
  
     print("\n=== Done ===")
- 
