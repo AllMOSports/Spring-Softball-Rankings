@@ -383,6 +383,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-01,Diamond,1,Fair Grove,11
 2026-04-01,Crane,2,Forsyth,5
 2026-04-01,Clarkton,0,Holcomb,15
+2026-04-01,Archie,22,Lakeland,4
 2026-04-01,Crest Ridge,18,Midway,0
 2026-04-01,Oran,0,Oak Ridge,15
 2026-04-01,Galena,0,Purdy,15
@@ -413,7 +414,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-03,Holcomb,4,Bernie,10
 2026-04-03,Pierce City,9,Billings with Hurley,0
 2026-04-03,Malden,11,Campbell,9
-2026-04-03,Thayer,0,Clearwater with South Iron,4
+2026-04-03,Thayer,4,Clearwater with South Iron,0
 2026-04-03,Kennett,2,Clearwater with South Iron,6
 2026-04-03,Forsyth,1,Clever,16
 2026-04-03,Alton,22,Dora,21
@@ -697,10 +698,12 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-15,Bernie,6,Advance,5
 2026-04-15,Puxico,10,Bloomfield,6
 2026-04-15,Richland (Essex),0,Leopold,15
+2026-04-15,Lockwood,10,Liberal,6
 2026-04-15,Gideon,0,Oran,21
 2026-04-15,Charleston,3,Scott County Central,18
 2026-04-16,Willow Springs,2,Ava,5
 2026-04-16,Liberty (Mountain View),7,Bakersfield,8
+2026-04-16,Versailles,1,Butler,6
 2026-04-16,Northwest (Hughesville),2,Cole Camp,0
 2026-04-16,Mansfield,15,Conway,2
 2026-04-16,Warsaw,1,Crest Ridge,2
@@ -720,33 +723,59 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-17,Dora,5,Gainesville,15
 2026-04-17,Delta,2,Holcomb,12
 2026-04-17,Portageville with Risco,0,Oak Ridge,11
+2026-04-17,West County,16,Potosi,4
 2026-04-17,Clarkton,0,South Pemiscot,15
+2026-04-17,Fordland,12,Spokane,6
 2026-04-17,Houston,0,Thayer,1
 2026-04-17,Tipton,4,Versailles,15
 2026-04-18,Southwest (Washburn),3,Crane,8
 2026-04-18,Reeds Spring,12,Greenfield with Golden City,4
+2026-04-18,Crane,7,Greenfield with Golden City,7
 2026-04-18,Southwest (Washburn),4,Greenfield with Golden City,2
 2026-04-18,Crane,1,Reeds Spring,11
 2026-04-18,Southwest (Washburn),4,Reeds Spring,18
 2026-04-19,Southwest (Washburn),3,Crane,8
 2026-04-19,Reeds Spring,12,Greenfield with Golden City,4
+2026-04-19,Crane,7,Greenfield with Golden City,7
 2026-04-19,Southwest (Washburn),4,Greenfield with Golden City,2
 2026-04-19,Crane,1,Reeds Spring,11
 2026-04-19,Southwest (Washburn),4,Reeds Spring,18
+2026-04-20,Versailles,4,Adrian,14
+2026-04-20,Valle Catholic,6,Arcadia Valley,0
+2026-04-20,Crest Ridge,16,Archie,0
 2026-04-20,Thayer,2,Ava,1
 2026-04-20,Scott City,3,Bernie,5
+2026-04-20,Ste. Genevieve,15,Bismarck,3
 2026-04-20,Oran,14,Bloomfield,2
+2026-04-20,Houston,18,Cabool,3
+2026-04-20,Spokane,1,Clever,16
+2026-04-20,Leeton,0,Concordia,16
+2026-04-20,Orrick,5,Concordia,22
+2026-04-20,East Prairie,17,Delta,2
+2026-04-20,Advance,18,Dexter,16
 2026-04-20,Strafford,3,Diamond,14
+2026-04-20,Jasper,0,East Newton,15
+2026-04-20,Oak Ridge,17,Grandview (Hillsboro),0
+2026-04-20,Butler,6,Green Ridge,7
+2026-04-20,Pleasant Hope,8,Greenfield with Golden City,11
 2026-04-20,Central (Park Hills),15,Kingston,0
+2026-04-20,St. Paul Lutheran (Concordia),1,Kingsville,11
+2026-04-20,Woodland,1,Leopold,10
+2026-04-20,Salem,7,Liberty (Mountain View),5
+2026-04-20,Liberal,6,Lockwood,10
 2026-04-20,Windsor,4,Lone Jack,10
 2026-04-20,Senath-Hornersville,4,Malden,9
 2026-04-20,Holcomb,8,Malden,9
 2026-04-20,Gainesville,4,Mansfield,14
+2026-04-20,Clearwater with South Iron,19,Meadow Heights,0
 2026-04-20,Santa Fe,20,Midway,4
 2026-04-20,Lockwood,8,New Heights Christian,2
 2026-04-20,Campbell,19,North Pemiscot,2
+2026-04-20,Exeter,6,Pierce City,8
+2026-04-20,West County,14,Potosi,4
 2026-04-20,Wheaton,0,Purdy,12
 2026-04-20,Bakersfield,5,Reeds Spring,6
+2026-04-20,Mt. Vernon,11,Sarcoxie,1
 2026-04-20,Holcomb,15,Senath-Hornersville,0
 2026-04-20,Lincoln,0,Skyline,10
 2026-04-20,Caruthersville,14,South Pemiscot,16
@@ -760,3 +789,24 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-20,Miller,19,Verona,0
 2026-04-20,Stover,0,Warsaw,15
 2026-04-20,Mountain Grove,8,Willow Springs,6
+2026-04-21,Bloomfield,6,Advance,7
+2026-04-21,Holcomb,6,Central (New Madrid County),10
+2026-04-21,Dexter,0,Clearwater with South Iron,17
+2026-04-21,Winona,8,Couch,9
+2026-04-21,Sweet Springs,4,Crest Ridge,2
+2026-04-21,Warsaw,17,El Dorado Springs,9
+2026-04-21,Bakersfield,11,Gainesville,4
+2026-04-21,Potosi,20,Kingston,0
+2026-04-21,Adrian,18,Lamar,16
+2026-04-21,Scott City,13,Leopold,10
+2026-04-21,Santa Fe,1,Lone Jack,11
+2026-04-21,Caruthersville,0,Malden,14
+2026-04-21,Licking,2,Plato,8
+2026-04-21,Tipton,16,Prairie Home with Bunceton,2
+2026-04-21,Tipton,20,Prairie Home with Bunceton,5
+2026-04-21,Forsyth,5,Reeds Spring,6
+2026-04-21,Steelville with Viburnum,1,Salem,17
+2026-04-21,Sparta,6,Seymour,7
+2026-04-21,Clever,8,Springfield Catholic,10
+2026-04-21,Concordia,20,St. Paul Lutheran (Concordia),9
+2026-04-21,Lincoln,15,Stover,0
