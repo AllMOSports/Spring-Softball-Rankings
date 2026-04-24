@@ -19,7 +19,7 @@ jobs:
           python-version: '3.11'
  
       - name: Install dependencies
-        run: pip install requests beautifulsoup4
+        run: pip install requests beautifulsoup4 pytz
  
       - name: Run Spring Softball Ratings
         run: python spring_softball_ratings.py
