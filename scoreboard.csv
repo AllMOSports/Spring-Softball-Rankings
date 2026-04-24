@@ -9,7 +9,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-03-19,Stockton with Fair Play,1,Mt. Vernon,11
 2026-03-19,Charleston,0,Portageville with Risco,15
 2026-03-20,Lockwood,9,Adrian,6
-2026-03-20,Central (New Madrid County),1,Adrian,6
+2026-03-20,Central (New Madrid County),1,Adrian,5
 2026-03-20,Osceola,20,Archie,16
 2026-03-20,El Dorado Springs,14,Ash Grove,4
 2026-03-20,Mt. Vernon,14,Ava,1
@@ -27,6 +27,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-03-20,Pierce City,0,East Newton,7
 2026-03-20,Mansfield,12,Gainesville,2
 2026-03-20,Sparta,4,Gainesville,22
+2026-03-20,Exeter,8,Jasper,4
 2026-03-20,Leeton,14,Lakeland,11
 2026-03-20,Liberal,0,Lamar,1
 2026-03-20,Pierce City,2,Liberal,3
@@ -714,9 +715,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-16,Cabool,0,Mountain Grove,12
 2026-04-16,Lone Jack,20,Orrick,1
 2026-04-16,Hume,11,Osceola,15
+2026-04-16,Licking,6,Potosi,12
 2026-04-16,Campbell,19,Senath-Hornersville,7
 2026-04-16,Windsor,13,Stover,0
 2026-04-16,Clever,24,Strafford,7
+2026-04-17,Winona,4,Arcadia Valley,11
 2026-04-17,Central (Park Hills),8,Bourbon,4
 2026-04-17,Delta (Deering),1,Caruthersville,16
 2026-04-17,Central (New Madrid County),18,Dexter,1
@@ -820,6 +823,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-21,Jasper,13,Lakeland,3
 2026-04-21,Adrian,18,Lamar,16
 2026-04-21,Scott City,13,Leopold,10
+2026-04-21,Archie,1,Liberal,13
 2026-04-21,Santa Fe,1,Lone Jack,11
 2026-04-21,Caruthersville,0,Malden,14
 2026-04-21,Delta (Deering),11,North Pemiscot,21
@@ -828,7 +832,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-21,Tipton,16,Prairie Home with Bunceton,2
 2026-04-21,Tipton,20,Prairie Home with Bunceton,5
 2026-04-21,Forsyth,5,Reeds Spring,6
-2026-04-21,Campbell,3,Richland (Essex),19
+2026-04-21,Campbell,19,Richland (Essex),3
 2026-04-21,Steelville with Viburnum,1,Salem,17
 2026-04-21,Miller,18,Sarcoxie,5
 2026-04-21,Sparta,6,Seymour,7
@@ -841,15 +845,61 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-21,Cole Camp,9,Windsor,8
 2026-04-22,Butler,8,Adrian,6
 2026-04-22,Skyline,15,Adrian,0
+2026-04-22,Versailles,4,Adrian,9
 2026-04-22,Meadow Heights,0,Bernie,16
 2026-04-22,Grandview (Hillsboro),0,Bourbon,12
 2026-04-22,Grandview (Hillsboro),1,Bourbon,16
 2026-04-22,Concordia,4,Butler,7
 2026-04-22,Mt. Vernon,7,Butler,0
 2026-04-22,Scott County Central,20,Clarkton,2
+2026-04-22,Mt. Vernon,12,Concordia,3
+2026-04-22,Versailles,4,Concordia,7
 2026-04-22,Osceola,3,Lamar,18
+2026-04-22,Advance,3,Leopold,10
+2026-04-22,Midway,6,Liberal,16
 2026-04-22,Skyline,1,Mt. Vernon,0
 2026-04-22,Charleston,0,Oran,25
-2026-04-22,Crane,11,Reeds Spring,14
+2026-04-22,Kingsville,21,Orrick,2
+2026-04-22,Crane,11,Reeds Spring,15
+2026-04-22,Dexter,17,Richland (Essex),21
+2026-04-22,Lockwood,15,Sarcoxie,0
 2026-04-22,Versailles,0,Skyline,8
 2026-04-22,Green Ridge,4,Sweet Springs,9
+2026-04-23,Couch,3,Alton,18
+2026-04-23,Forsyth,1,Buffalo,6
+2026-04-23,Archie,0,Butler,15
+2026-04-23,Holcomb,12,Campbell,2
+2026-04-23,Valle Catholic,2,Central (Park Hills),12
+2026-04-23,Otterville,5,Cole Camp,16
+2026-04-23,Leopold,9,Delta,1
+2026-04-23,Leopold,11,Delta,1
+2026-04-23,Clarkton,5,Delta (Deering),11
+2026-04-23,Clarkton,6,Delta (Deering),18
+2026-04-23,Chadwick,0,Exeter,11
+2026-04-23,Fordland,7,Gainesville,12
+2026-04-23,North Pemiscot,21,Gideon,5
+2026-04-23,Reeds Spring,16,Hollister,4
+2026-04-23,Bismarck,20,Kingston,5
+2026-04-23,Orrick,4,Leeton,17
+2026-04-23,Windsor,5,Lincoln,9
+2026-04-23,Ash Grove,4,Lockwood,5
+2026-04-23,St. Paul Lutheran (Concordia),6,Lone Jack,16
+2026-04-23,Salem,13,Mountain Grove,1
+2026-04-23,East Newton,18,New Heights Christian,0
+2026-04-23,Kennett,18,Oran,0
+2026-04-23,Strafford,3,Plato,8
+2026-04-23,Stockton with Fair Play,7,Pleasant Hope,8
+2026-04-23,Central (New Madrid County),16,Portageville with Risco,7
+2026-04-23,Arcadia Valley,1,Potosi,16
+2026-04-23,Stover,21,Prairie Home with Bunceton,5
+2026-04-23,Lamar,0,Purdy,8
+2026-04-23,Spokane,3,Sarcoxie,9
+2026-04-23,Warsaw,0,Skyline,10
+2026-04-23,Clever,9,Southwest (Washburn),2
+2026-04-23,West County,1,Ste. Genevieve,5
+2026-04-23,Liberty (Mountain View),0,Thayer,15
+2026-04-23,Crest Ridge,17,Wellington-Napoleon,3
+2026-04-23,Greenfield with Golden City,6,Wheaton,8
+2026-04-23,Cabool,4,Willow Springs,8
+2026-04-23,Bakersfield,12,Winona,2
+2026-04-24,Diamond,8,Sarcoxie,9
