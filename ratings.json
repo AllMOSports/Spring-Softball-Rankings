@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 28, 2026 at 11:19 AM",
+  "last_updated": "April 28, 2026 at 11:37 AM",
   "league_average": 8.22,
   "teams": [
     {
@@ -741,17 +741,6 @@
     },
     {
       "ovr_rank": 68,
-      "school": "Wheaton",
-      "classification": 1,
-      "district": 5,
-      "ovr_rating": -0.12,
-      "off_rating": 0.46,
-      "off_rank": 52,
-      "def_rating": -0.58,
-      "def_rank": 70
-    },
-    {
-      "ovr_rank": 69,
       "school": "Mansfield",
       "classification": 1,
       "district": 4,
@@ -760,6 +749,17 @@
       "off_rank": 64,
       "def_rating": -0.17,
       "def_rank": 68
+    },
+    {
+      "ovr_rank": 69,
+      "school": "Wheaton",
+      "classification": 1,
+      "district": 5,
+      "ovr_rating": -0.12,
+      "off_rating": 0.46,
+      "off_rank": 52,
+      "def_rating": -0.58,
+      "def_rank": 70
     },
     {
       "ovr_rank": 70,
