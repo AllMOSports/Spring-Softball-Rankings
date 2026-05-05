@@ -805,6 +805,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-21,Winona,8,Couch,9
 2026-04-21,Sweet Springs,4,Crest Ridge,2
 2026-04-21,Puxico,11,Delta,7
+2026-04-21,North Pemiscot,11,Delta (Deering),9
 2026-04-21,Lockwood,11,Diamond,7
 2026-04-21,Warsaw,17,El Dorado Springs,9
 2026-04-21,New Heights Christian,2,Exeter,12
@@ -962,6 +963,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-28,Lakeland,0,Green Ridge,19
 2026-04-28,Wellington-Napoleon,2,Lone Jack,18
 2026-04-28,Midway,21,Rich Hill,3
+2026-04-28,Delta,0,Woodland,8
 2026-04-29,Richland (Essex),7,Arcadia Valley,17
 2026-04-29,Oak Ridge,9,Bernie,2
 2026-04-29,Puxico,4,Clearwater with South Iron,14
@@ -1017,6 +1019,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-30,Houston,15,Plato,12
 2026-04-30,Clever,17,Pleasant Hope,0
 2026-04-30,Bourbon,6,Potosi,1
+2026-04-30,Bourbon,14,Potosi,13
 2026-04-30,Malden,18,Puxico,6
 2026-04-30,Spokane,4,Reeds Spring,8
 2026-04-30,Clarkton,1,Richland (Essex),16
@@ -1034,18 +1037,61 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-01,Campbell,4,Caruthersville,5
 2026-05-01,Bernie,14,Central (New Madrid County),8
 2026-05-01,Crane,7,Fordland,8
+2026-05-01,Ava,10,Hollister,0
 2026-05-01,Salem,16,Kingston,0
+2026-05-01,Lakeland,0,Liberal,15
+2026-05-01,Houston,14,Licking,0
 2026-05-01,East Prairie,4,Malden,0
 2026-05-01,Richland (Essex),22,North Pemiscot,6
+2026-05-01,Valle Catholic,0,Oak Ridge,8
+2026-05-01,Stover,16,Otterville,3
 2026-05-01,East Newton,15,Pierce City,0
 2026-05-01,Seymour,2,Reeds Spring,12
 2026-05-01,Sweet Springs,2,Santa Fe,1
 2026-05-01,Lamar,24,Sarcoxie,10
 2026-05-01,Clarkton,0,Senath-Hornersville,15
+2026-05-01,Holcomb,15,Senath-Hornersville,0
+2026-05-01,Conway,2,Sparta,17
 2026-05-01,Chadwick,0,Strafford,15
+2026-05-01,New Heights Christian,1,Wheaton,6
+2026-05-01,Puxico,9,Woodland,6
 2026-05-02,El Dorado Springs,5,Adrian,3
 2026-05-02,Southwest (Washburn),4,Blue Eye,3
 2026-05-02,Warsaw,10,Butler,0
 2026-05-02,Clarkton,1,Campbell,16
+2026-05-02,Licking,15,Conway,0
 2026-05-02,Warsaw,4,El Dorado Springs,2
+2026-05-02,Spokane,4,Hollister,10
+2026-05-02,Spokane,4,Licking,2
 2026-05-02,Southwest (Washburn),1,Purdy,11
+2026-05-03,El Dorado Springs,5,Adrian,3
+2026-05-03,Southwest (Washburn),4,Blue Eye,3
+2026-05-03,Warsaw,10,Butler,0
+2026-05-03,Clarkton,1,Campbell,16
+2026-05-03,Licking,15,Conway,0
+2026-05-03,Warsaw,4,El Dorado Springs,2
+2026-05-03,Spokane,4,Hollister,10
+2026-05-03,Spokane,4,Licking,2
+2026-05-03,Southwest (Washburn),1,Purdy,11
+2026-05-04,Gainesville,2,Alton,5
+2026-05-04,Meadow Heights,14,Bloomfield,16
+2026-05-04,South Pemiscot,13,Caruthersville,3
+2026-05-04,Santa Fe,3,Crest Ridge,4
+2026-05-04,Liberty (Mountain View),10,Dora,25
+2026-05-04,Billings with Hurley,5,Greenfield with Golden City,15
+2026-05-04,East Prairie,5,Holcomb,0
+2026-05-04,Grandview (Hillsboro),15,Kingston,4
+2026-05-04,Prairie Home with Bunceton,10,Leeton,26
+2026-05-04,Plato,16,Licking,5
+2026-05-04,Mansfield,5,Mountain Grove,1
+2026-05-04,Reeds Spring,0,Mt. Vernon,15
+2026-05-04,Skyline,10,Pierce City,0
+2026-05-04,Jasper,0,Purdy,6
+2026-05-04,Valle Catholic,9,Scott City,2
+2026-05-04,Central (New Madrid County),18,Scott County Central,0
+2026-05-04,Senath-Hornersville,3,South Pemiscot,14
+2026-05-04,East Newton,9,Springfield Catholic,0
+2026-05-04,Lamar,13,Stockton with Fair Play,3
+2026-05-04,Willow Springs,10,Summersville,2
+2026-05-04,New Heights Christian,25,Verona,15
+2026-05-04,Lone Jack,11,Versailles,12
