@@ -960,6 +960,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-28,Windsor,14,Archie,0
 2026-04-28,Santa Fe,5,Concordia,4
 2026-04-28,Koshkonong,0,Couch,7
+2026-04-28,Orrick,0,Crest Ridge,18
 2026-04-28,Lakeland,0,Green Ridge,19
 2026-04-28,Wellington-Napoleon,2,Lone Jack,18
 2026-04-28,Midway,21,Rich Hill,3
@@ -996,6 +997,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-29,St. Paul Lutheran (Concordia),11,Wellington-Napoleon,2
 2026-04-29,Delta,0,Woodland,8
 2026-04-30,Windsor,5,Adrian,17
+2026-04-30,Woodland,19,Arcadia Valley,7
 2026-04-30,Forsyth,7,Ava,8
 2026-04-30,Verona,10,Billings with Hurley,14
 2026-04-30,Stockton with Fair Play,1,Buffalo,6
@@ -1030,6 +1032,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-04-30,Dexter,4,Senath-Hornersville,15
 2026-04-30,Valle Catholic,3,West County,8
 2026-04-30,Exeter,8,Wheaton,2
+2026-05-01,Greenfield with Golden City,0,Ash Grove,15
 2026-05-01,Pleasant Hope,0,Bakersfield,9
 2026-05-01,Marionville,12,Billings with Hurley,4
 2026-05-01,Green Ridge,3,Buffalo,4
@@ -1039,6 +1042,7 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-01,Crane,7,Fordland,8
 2026-05-01,Ava,10,Hollister,0
 2026-05-01,Salem,16,Kingston,0
+2026-05-01,Cole Camp,15,Leeton,2
 2026-05-01,Lakeland,0,Liberal,15
 2026-05-01,Houston,14,Licking,0
 2026-05-01,East Prairie,4,Malden,0
@@ -1055,8 +1059,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-01,Chadwick,0,Strafford,15
 2026-05-01,New Heights Christian,1,Wheaton,6
 2026-05-01,Puxico,9,Woodland,6
+2026-05-02,Butler,3,Adrian,10
 2026-05-02,El Dorado Springs,5,Adrian,3
+2026-05-02,Versailles,6,Adrian,9
 2026-05-02,Southwest (Washburn),4,Blue Eye,3
+2026-05-02,Versailles,6,Butler,8
 2026-05-02,Warsaw,10,Butler,0
 2026-05-02,Clarkton,1,Campbell,16
 2026-05-02,Licking,15,Conway,0
@@ -1064,8 +1071,11 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-02,Spokane,4,Hollister,10
 2026-05-02,Spokane,4,Licking,2
 2026-05-02,Southwest (Washburn),1,Purdy,11
+2026-05-03,Butler,3,Adrian,10
 2026-05-03,El Dorado Springs,5,Adrian,3
+2026-05-03,Versailles,6,Adrian,9
 2026-05-03,Southwest (Washburn),4,Blue Eye,3
+2026-05-03,Versailles,6,Butler,8
 2026-05-03,Warsaw,10,Butler,0
 2026-05-03,Clarkton,1,Campbell,16
 2026-05-03,Licking,15,Conway,0
@@ -1075,23 +1085,63 @@ Date,Home Team,Home Score,Away Team,Away Score
 2026-05-03,Southwest (Washburn),1,Purdy,11
 2026-05-04,Gainesville,2,Alton,5
 2026-05-04,Meadow Heights,14,Bloomfield,16
+2026-05-04,Houston,22,Bourbon,7
+2026-05-04,Ava,6,Buffalo,11
+2026-05-04,Fordland,10,Cabool,0
 2026-05-04,South Pemiscot,13,Caruthersville,3
+2026-05-04,Clearwater with South Iron,9,Central (Park Hills),4
+2026-05-04,Tipton,1,Concordia,16
+2026-05-04,Hollister,18,Conway,2
 2026-05-04,Santa Fe,3,Crest Ridge,4
 2026-05-04,Liberty (Mountain View),10,Dora,25
+2026-05-04,Lockwood,3,Exeter,2
+2026-05-04,Sarcoxie,4,Fair Grove,14
+2026-05-04,Miller,13,Forsyth,3
 2026-05-04,Billings with Hurley,5,Greenfield with Golden City,15
+2026-05-04,West County,23,Greenville,19
 2026-05-04,East Prairie,5,Holcomb,0
+2026-05-04,Conway,2,Hollister,18
+2026-05-04,Butler,10,Hume,1
 2026-05-04,Grandview (Hillsboro),15,Kingston,4
+2026-05-04,Kingsville,11,Lakeland,0
 2026-05-04,Prairie Home with Bunceton,10,Leeton,26
+2026-05-04,Wheaton,3,Liberal,13
 2026-05-04,Plato,16,Licking,5
+2026-05-04,Northwest (Hughesville),2,Lincoln,6
+2026-05-04,Southwest (Washburn),2,Marionville,6
 2026-05-04,Mansfield,5,Mountain Grove,1
 2026-05-04,Reeds Spring,0,Mt. Vernon,15
+2026-05-04,Delta,0,Oak Ridge,15
+2026-05-04,Orrick,11,Otterville,21
 2026-05-04,Skyline,10,Pierce City,0
+2026-05-04,Ash Grove,18,Pleasant Hope,12
+2026-05-04,Chadwick,8,Pleasant Hope,12
+2026-05-04,Advance,0,Portageville with Risco,10
 2026-05-04,Jasper,0,Purdy,6
 2026-05-04,Valle Catholic,9,Scott City,2
 2026-05-04,Central (New Madrid County),18,Scott County Central,0
 2026-05-04,Senath-Hornersville,3,South Pemiscot,14
 2026-05-04,East Newton,9,Springfield Catholic,0
+2026-05-04,Clearwater with South Iron,15,Ste. Genevieve,5
 2026-05-04,Lamar,13,Stockton with Fair Play,3
 2026-05-04,Willow Springs,10,Summersville,2
 2026-05-04,New Heights Christian,25,Verona,15
+2026-05-04,Green Ridge,10,Versailles,3
 2026-05-04,Lone Jack,11,Versailles,12
+2026-05-04,Dexter,4,Woodland,15
+2026-05-05,East Newton,14,Ash Grove,3
+2026-05-05,Clever,24,Billings with Hurley,1
+2026-05-05,Pleasant Hope,0,Buffalo,15
+2026-05-05,Seymour,23,Conway,22
+2026-05-05,Strafford,18,El Dorado Springs,12
+2026-05-05,Wheaton,5,Hollister,16
+2026-05-05,Willow Springs,12,Houston,13
+2026-05-05,Sarcoxie,5,Liberal,11
+2026-05-05,Pierce City,2,Lockwood,12
+2026-05-05,Forsyth,6,Marionville,7
+2026-05-05,Stockton with Fair Play,7,Miller,10
+2026-05-05,Jasper,20,New Heights Christian,13
+2026-05-05,Liberty (Mountain View),0,Plato,15
+2026-05-05,Wellington-Napoleon,11,Santa Fe,6
+2026-05-05,Conway,22,Seymour,23
+2026-05-05,Mansfield,24,Sparta,25
