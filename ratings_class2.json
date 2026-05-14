@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 14, 2026 at 08:48 AM",
+  "last_updated": "May 14, 2026 at 11:19 AM",
   "league_average": 8.12,
   "classification": 2,
   "teams": [
@@ -467,17 +467,6 @@
     },
     {
       "ovr_rank": 43,
-      "school": "Windsor",
-      "classification": 2,
-      "district": 8,
-      "ovr_rating": 0.53,
-      "off_rating": 0.11,
-      "off_rank": 40,
-      "def_rating": 0.42,
-      "def_rank": 45
-    },
-    {
-      "ovr_rank": 44,
       "school": "Portageville with Risco",
       "classification": 2,
       "district": 1,
@@ -486,6 +475,17 @@
       "off_rank": 42,
       "def_rating": 0.52,
       "def_rank": 44
+    },
+    {
+      "ovr_rank": 44,
+      "school": "Windsor",
+      "classification": 2,
+      "district": 8,
+      "ovr_rating": 0.53,
+      "off_rating": 0.11,
+      "off_rank": 40,
+      "def_rating": 0.42,
+      "def_rank": 45
     },
     {
       "ovr_rank": 45,

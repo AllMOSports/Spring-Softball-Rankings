@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 14, 2026 at 08:48 AM",
+  "last_updated": "May 14, 2026 at 11:19 AM",
   "league_average": 8.12,
   "teams": [
     {
@@ -378,17 +378,6 @@
     },
     {
       "ovr_rank": 35,
-      "school": "Green Ridge",
-      "classification": 1,
-      "district": 7,
-      "ovr_rating": 4.43,
-      "off_rating": 0.44,
-      "off_rank": 51,
-      "def_rating": 3.99,
-      "def_rank": 27
-    },
-    {
-      "ovr_rank": 36,
       "school": "Cole Camp",
       "classification": 2,
       "district": 8,
@@ -397,6 +386,17 @@
       "off_rank": 40,
       "def_rating": 3.35,
       "def_rank": 32
+    },
+    {
+      "ovr_rank": 36,
+      "school": "Green Ridge",
+      "classification": 1,
+      "district": 7,
+      "ovr_rating": 4.43,
+      "off_rating": 0.44,
+      "off_rank": 51,
+      "def_rating": 3.99,
+      "def_rank": 27
     },
     {
       "ovr_rank": 37,
@@ -675,17 +675,6 @@
     },
     {
       "ovr_rank": 62,
-      "school": "Windsor",
-      "classification": 2,
-      "district": 8,
-      "ovr_rating": 0.53,
-      "off_rating": 0.11,
-      "off_rank": 59,
-      "def_rating": 0.42,
-      "def_rank": 63
-    },
-    {
-      "ovr_rank": 63,
       "school": "Portageville with Risco",
       "classification": 2,
       "district": 1,
@@ -694,6 +683,17 @@
       "off_rank": 62,
       "def_rating": 0.52,
       "def_rank": 62
+    },
+    {
+      "ovr_rank": 63,
+      "school": "Windsor",
+      "classification": 2,
+      "district": 8,
+      "ovr_rating": 0.53,
+      "off_rating": 0.11,
+      "off_rank": 59,
+      "def_rating": 0.42,
+      "def_rank": 63
     },
     {
       "ovr_rank": 64,
