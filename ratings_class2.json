@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 15, 2026 at 10:39 AM",
+  "last_updated": "May 16, 2026 at 04:47 AM",
   "league_average": 8.14,
   "classification": 2,
   "teams": [
@@ -522,17 +522,6 @@
     },
     {
       "ovr_rank": 48,
-      "school": "Stover",
-      "classification": 2,
-      "district": 8,
-      "ovr_rating": -1.89,
-      "off_rating": -0.58,
-      "off_rank": 49,
-      "def_rating": -1.31,
-      "def_rank": 51
-    },
-    {
-      "ovr_rank": 49,
       "school": "Potosi",
       "classification": 2,
       "district": 3,
@@ -541,6 +530,17 @@
       "off_rank": 45,
       "def_rating": -1.72,
       "def_rank": 53
+    },
+    {
+      "ovr_rank": 49,
+      "school": "Stover",
+      "classification": 2,
+      "district": 8,
+      "ovr_rating": -1.89,
+      "off_rating": -0.58,
+      "off_rank": 49,
+      "def_rating": -1.31,
+      "def_rank": 51
     },
     {
       "ovr_rank": 50,
