@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 22, 2026 at 05:57 AM",
+  "last_updated": "May 23, 2026 at 05:00 AM",
   "league_average": 8.12,
   "teams": [
     {
@@ -829,17 +829,6 @@
     },
     {
       "ovr_rank": 76,
-      "school": "Wheaton",
-      "classification": 1,
-      "district": 5,
-      "ovr_rating": -2.17,
-      "off_rating": -1.19,
-      "off_rank": 86,
-      "def_rating": -0.98,
-      "def_rank": 70
-    },
-    {
-      "ovr_rank": 77,
       "school": "Pleasant Hope",
       "classification": 1,
       "district": 4,
@@ -848,6 +837,17 @@
       "off_rank": 69,
       "def_rating": -1.95,
       "def_rank": 80
+    },
+    {
+      "ovr_rank": 77,
+      "school": "Wheaton",
+      "classification": 1,
+      "district": 5,
+      "ovr_rating": -2.17,
+      "off_rating": -1.19,
+      "off_rank": 86,
+      "def_rating": -0.98,
+      "def_rank": 70
     },
     {
       "ovr_rank": 78,
@@ -928,17 +928,6 @@
     },
     {
       "ovr_rank": 85,
-      "school": "Sparta",
-      "classification": 2,
-      "district": 5,
-      "ovr_rating": -4.1,
-      "off_rating": 0.2,
-      "off_rank": 57,
-      "def_rating": -4.3,
-      "def_rank": 96
-    },
-    {
-      "ovr_rank": 86,
       "school": "Campbell",
       "classification": 1,
       "district": 1,
@@ -947,6 +936,17 @@
       "off_rank": 85,
       "def_rating": -3.02,
       "def_rank": 86
+    },
+    {
+      "ovr_rank": 86,
+      "school": "Sparta",
+      "classification": 2,
+      "district": 5,
+      "ovr_rating": -4.1,
+      "off_rating": 0.2,
+      "off_rank": 57,
+      "def_rating": -4.3,
+      "def_rank": 96
     },
     {
       "ovr_rank": 87,
@@ -1214,17 +1214,6 @@
     },
     {
       "ovr_rank": 111,
-      "school": "Scott County Central",
-      "classification": 1,
-      "district": 2,
-      "ovr_rating": -10.91,
-      "off_rating": -5.25,
-      "off_rank": 121,
-      "def_rating": -5.66,
-      "def_rank": 104
-    },
-    {
-      "ovr_rank": 112,
       "school": "Ellington",
       "classification": 1,
       "district": 3,
@@ -1233,6 +1222,17 @@
       "off_rank": 99,
       "def_rating": -7.97,
       "def_rank": 115
+    },
+    {
+      "ovr_rank": 112,
+      "school": "Scott County Central",
+      "classification": 1,
+      "district": 2,
+      "ovr_rating": -10.91,
+      "off_rating": -5.25,
+      "off_rank": 121,
+      "def_rating": -5.66,
+      "def_rank": 104
     },
     {
       "ovr_rank": 113,

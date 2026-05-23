@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 22, 2026 at 05:57 AM",
+  "last_updated": "May 23, 2026 at 05:00 AM",
   "league_average": 8.12,
   "classification": 1,
   "teams": [
@@ -291,17 +291,6 @@
     },
     {
       "ovr_rank": 27,
-      "school": "Wheaton",
-      "classification": 1,
-      "district": 5,
-      "ovr_rating": -2.17,
-      "off_rating": -1.19,
-      "off_rank": 35,
-      "def_rating": -0.98,
-      "def_rank": 22
-    },
-    {
-      "ovr_rank": 28,
       "school": "Pleasant Hope",
       "classification": 1,
       "district": 4,
@@ -310,6 +299,17 @@
       "off_rank": 24,
       "def_rating": -1.95,
       "def_rank": 27
+    },
+    {
+      "ovr_rank": 28,
+      "school": "Wheaton",
+      "classification": 1,
+      "district": 5,
+      "ovr_rating": -2.17,
+      "off_rating": -1.19,
+      "off_rank": 35,
+      "def_rating": -0.98,
+      "def_rank": 22
     },
     {
       "ovr_rank": 29,
@@ -533,17 +533,6 @@
     },
     {
       "ovr_rank": 49,
-      "school": "Scott County Central",
-      "classification": 1,
-      "district": 2,
-      "ovr_rating": -10.91,
-      "off_rating": -5.25,
-      "off_rank": 56,
-      "def_rating": -5.66,
-      "def_rank": 44
-    },
-    {
-      "ovr_rank": 50,
       "school": "Ellington",
       "classification": 1,
       "district": 3,
@@ -552,6 +541,17 @@
       "off_rank": 40,
       "def_rating": -7.97,
       "def_rank": 53
+    },
+    {
+      "ovr_rank": 50,
+      "school": "Scott County Central",
+      "classification": 1,
+      "district": 2,
+      "ovr_rating": -10.91,
+      "off_rating": -5.25,
+      "off_rank": 56,
+      "def_rating": -5.66,
+      "def_rank": 44
     },
     {
       "ovr_rank": 51,
