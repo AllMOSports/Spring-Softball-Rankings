@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 24, 2026 at 05:01 AM",
+  "last_updated": "May 25, 2026 at 06:58 AM",
   "league_average": 8.12,
   "teams": [
     {
@@ -829,17 +829,6 @@
     },
     {
       "ovr_rank": 76,
-      "school": "Wheaton",
-      "classification": 1,
-      "district": 5,
-      "ovr_rating": -2.17,
-      "off_rating": -1.19,
-      "off_rank": 86,
-      "def_rating": -0.98,
-      "def_rank": 70
-    },
-    {
-      "ovr_rank": 77,
       "school": "Pleasant Hope",
       "classification": 1,
       "district": 4,
@@ -848,6 +837,17 @@
       "off_rank": 69,
       "def_rating": -1.95,
       "def_rank": 80
+    },
+    {
+      "ovr_rank": 77,
+      "school": "Wheaton",
+      "classification": 1,
+      "district": 5,
+      "ovr_rating": -2.17,
+      "off_rating": -1.19,
+      "off_rank": 86,
+      "def_rating": -0.98,
+      "def_rank": 70
     },
     {
       "ovr_rank": 78,
@@ -1302,17 +1302,6 @@
     },
     {
       "ovr_rank": 119,
-      "school": "Conway",
-      "classification": 2,
-      "district": 7,
-      "ovr_rating": -13.7,
-      "off_rating": -3.56,
-      "off_rank": 107,
-      "def_rating": -10.14,
-      "def_rank": 122
-    },
-    {
-      "ovr_rank": 120,
       "school": "Dexter",
       "classification": 2,
       "district": 1,
@@ -1321,6 +1310,17 @@
       "off_rank": 117,
       "def_rating": -9.17,
       "def_rank": 119
+    },
+    {
+      "ovr_rank": 120,
+      "school": "Conway",
+      "classification": 2,
+      "district": 7,
+      "ovr_rating": -13.7,
+      "off_rating": -3.56,
+      "off_rank": 107,
+      "def_rating": -10.14,
+      "def_rank": 122
     },
     {
       "ovr_rank": 121,

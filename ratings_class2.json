@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 24, 2026 at 05:01 AM",
+  "last_updated": "May 25, 2026 at 06:58 AM",
   "league_average": 8.12,
   "classification": 2,
   "teams": [
@@ -687,17 +687,6 @@
     },
     {
       "ovr_rank": 63,
-      "school": "Conway",
-      "classification": 2,
-      "district": 7,
-      "ovr_rating": -13.7,
-      "off_rating": -3.56,
-      "off_rank": 62,
-      "def_rating": -10.14,
-      "def_rank": 64
-    },
-    {
-      "ovr_rank": 64,
       "school": "Dexter",
       "classification": 2,
       "district": 1,
@@ -706,6 +695,17 @@
       "off_rank": 64,
       "def_rating": -9.17,
       "def_rank": 63
+    },
+    {
+      "ovr_rank": 64,
+      "school": "Conway",
+      "classification": 2,
+      "district": 7,
+      "ovr_rating": -13.7,
+      "off_rating": -3.56,
+      "off_rank": 62,
+      "def_rating": -10.14,
+      "def_rank": 64
     },
     {
       "ovr_rank": 65,
