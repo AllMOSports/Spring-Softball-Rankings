@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 31, 2026 at 05:22 AM",
+  "last_updated": "June 01, 2026 at 08:44 AM",
   "league_average": 8.08,
   "teams": [
     {
@@ -521,17 +521,6 @@
     },
     {
       "ovr_rank": 48,
-      "school": "Salem",
-      "classification": 2,
-      "district": 3,
-      "ovr_rating": 2.21,
-      "off_rating": 0.09,
-      "off_rank": 62,
-      "def_rating": 2.12,
-      "def_rank": 47
-    },
-    {
-      "ovr_rank": 49,
       "school": "Santa Fe",
       "classification": 1,
       "district": 8,
@@ -540,6 +529,17 @@
       "off_rank": 79,
       "def_rating": 2.96,
       "def_rank": 36
+    },
+    {
+      "ovr_rank": 49,
+      "school": "Salem",
+      "classification": 2,
+      "district": 3,
+      "ovr_rating": 2.21,
+      "off_rating": 0.09,
+      "off_rank": 62,
+      "def_rating": 2.12,
+      "def_rank": 47
     },
     {
       "ovr_rank": 50,
@@ -829,17 +829,6 @@
     },
     {
       "ovr_rank": 76,
-      "school": "Pleasant Hope",
-      "classification": 1,
-      "district": 4,
-      "ovr_rating": -2.23,
-      "off_rating": -0.24,
-      "off_rank": 68,
-      "def_rating": -1.99,
-      "def_rank": 80
-    },
-    {
-      "ovr_rank": 77,
       "school": "South Pemiscot",
       "classification": 1,
       "district": 1,
@@ -848,6 +837,17 @@
       "off_rank": 67,
       "def_rating": -2.08,
       "def_rank": 81
+    },
+    {
+      "ovr_rank": 77,
+      "school": "Pleasant Hope",
+      "classification": 1,
+      "district": 4,
+      "ovr_rating": -2.23,
+      "off_rating": -0.24,
+      "off_rank": 68,
+      "def_rating": -1.99,
+      "def_rank": 80
     },
     {
       "ovr_rank": 78,
