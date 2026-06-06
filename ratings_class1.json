@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 05, 2026 at 06:34 AM",
+  "last_updated": "June 06, 2026 at 05:11 AM",
   "league_average": 8.08,
   "classification": 1,
   "teams": [
@@ -291,17 +291,6 @@
     },
     {
       "ovr_rank": 27,
-      "school": "Pleasant Hope",
-      "classification": 1,
-      "district": 4,
-      "ovr_rating": -2.23,
-      "off_rating": -0.24,
-      "off_rank": 24,
-      "def_rating": -1.99,
-      "def_rank": 27
-    },
-    {
-      "ovr_rank": 28,
       "school": "South Pemiscot",
       "classification": 1,
       "district": 1,
@@ -310,6 +299,17 @@
       "off_rank": 23,
       "def_rating": -2.08,
       "def_rank": 28
+    },
+    {
+      "ovr_rank": 28,
+      "school": "Pleasant Hope",
+      "classification": 1,
+      "district": 4,
+      "ovr_rating": -2.23,
+      "off_rating": -0.24,
+      "off_rank": 24,
+      "def_rating": -1.99,
+      "def_rank": 27
     },
     {
       "ovr_rank": 29,
