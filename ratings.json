@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 10, 2026 at 06:44 AM",
+  "last_updated": "June 11, 2026 at 07:15 AM",
   "league_average": 8.08,
   "teams": [
     {
@@ -521,17 +521,6 @@
     },
     {
       "ovr_rank": 48,
-      "school": "Salem",
-      "classification": 2,
-      "district": 3,
-      "ovr_rating": 2.21,
-      "off_rating": 0.09,
-      "off_rank": 62,
-      "def_rating": 2.12,
-      "def_rank": 47
-    },
-    {
-      "ovr_rank": 49,
       "school": "Santa Fe",
       "classification": 1,
       "district": 8,
@@ -540,6 +529,17 @@
       "off_rank": 79,
       "def_rating": 2.96,
       "def_rank": 36
+    },
+    {
+      "ovr_rank": 49,
+      "school": "Salem",
+      "classification": 2,
+      "district": 3,
+      "ovr_rating": 2.21,
+      "off_rating": 0.09,
+      "off_rank": 62,
+      "def_rating": 2.12,
+      "def_rank": 47
     },
     {
       "ovr_rank": 50,
