@@ -1,0 +1,541 @@
+{
+  "season": 2015,
+  "school_year": "2014-2015",
+  "teams": [
+    {
+      "school": "Caruthersville",
+      "classification": 1,
+      "district": 1
+    },
+    {
+      "school": "Central (New Madrid County)",
+      "classification": 1,
+      "district": 1
+    },
+    {
+      "school": "Cooter",
+      "classification": 1,
+      "district": 1
+    },
+    {
+      "school": "Delta (Deering)",
+      "classification": 1,
+      "district": 1
+    },
+    {
+      "school": "North Pemiscot",
+      "classification": 1,
+      "district": 1
+    },
+    {
+      "school": "South Pemiscot",
+      "classification": 1,
+      "district": 1
+    },
+    {
+      "school": "Campbell",
+      "classification": 1,
+      "district": 2
+    },
+    {
+      "school": "Clarkton",
+      "classification": 1,
+      "district": 2
+    },
+    {
+      "school": "Gideon",
+      "classification": 1,
+      "district": 2
+    },
+    {
+      "school": "Holcomb",
+      "classification": 1,
+      "district": 2
+    },
+    {
+      "school": "Kennett",
+      "classification": 1,
+      "district": 2
+    },
+    {
+      "school": "Senath-Hornersville",
+      "classification": 1,
+      "district": 2
+    },
+    {
+      "school": "Southland",
+      "classification": 1,
+      "district": 2
+    },
+    {
+      "school": "Bernie",
+      "classification": 1,
+      "district": 3
+    },
+    {
+      "school": "Bloomfield",
+      "classification": 1,
+      "district": 3
+    },
+    {
+      "school": "Charleston",
+      "classification": 1,
+      "district": 3
+    },
+    {
+      "school": "Dexter",
+      "classification": 1,
+      "district": 3
+    },
+    {
+      "school": "Malden",
+      "classification": 1,
+      "district": 3
+    },
+    {
+      "school": "Risco",
+      "classification": 1,
+      "district": 3
+    },
+    {
+      "school": "Advance",
+      "classification": 1,
+      "district": 4
+    },
+    {
+      "school": "Leopold",
+      "classification": 1,
+      "district": 4
+    },
+    {
+      "school": "Scott City",
+      "classification": 1,
+      "district": 4
+    },
+    {
+      "school": "Scott County Central",
+      "classification": 1,
+      "district": 4
+    },
+    {
+      "school": "Woodland",
+      "classification": 1,
+      "district": 4
+    },
+    {
+      "school": "Bismarck",
+      "classification": 1,
+      "district": 5
+    },
+    {
+      "school": "Crystal City",
+      "classification": 1,
+      "district": 5
+    },
+    {
+      "school": "Kingston",
+      "classification": 1,
+      "district": 5
+    },
+    {
+      "school": "Meadow Heights",
+      "classification": 1,
+      "district": 5
+    },
+    {
+      "school": "Oak Ridge",
+      "classification": 1,
+      "district": 5
+    },
+    {
+      "school": "Valle Catholic",
+      "classification": 1,
+      "district": 5
+    },
+    {
+      "school": "West County",
+      "classification": 1,
+      "district": 5
+    },
+    {
+      "school": "Arcadia Valley",
+      "classification": 1,
+      "district": 6
+    },
+    {
+      "school": "Clearwater",
+      "classification": 1,
+      "district": 6
+    },
+    {
+      "school": "Ellington",
+      "classification": 1,
+      "district": 6
+    },
+    {
+      "school": "Eminence",
+      "classification": 1,
+      "district": 6
+    },
+    {
+      "school": "Greenville",
+      "classification": 1,
+      "district": 6
+    },
+    {
+      "school": "Summersville",
+      "classification": 1,
+      "district": 6
+    },
+    {
+      "school": "Zalma",
+      "classification": 1,
+      "district": 6
+    },
+    {
+      "school": "Cabool",
+      "classification": 1,
+      "district": 7
+    },
+    {
+      "school": "Chadwick",
+      "classification": 1,
+      "district": 7
+    },
+    {
+      "school": "Conway",
+      "classification": 1,
+      "district": 7
+    },
+    {
+      "school": "Fordland",
+      "classification": 1,
+      "district": 7
+    },
+    {
+      "school": "Mountain Grove",
+      "classification": 1,
+      "district": 7
+    },
+    {
+      "school": "Plato",
+      "classification": 1,
+      "district": 7
+    },
+    {
+      "school": "Sparta",
+      "classification": 1,
+      "district": 7
+    },
+    {
+      "school": "Blue Eye",
+      "classification": 1,
+      "district": 8
+    },
+    {
+      "school": "Clever",
+      "classification": 1,
+      "district": 8
+    },
+    {
+      "school": "Crane",
+      "classification": 1,
+      "district": 8
+    },
+    {
+      "school": "Forsyth",
+      "classification": 1,
+      "district": 8
+    },
+    {
+      "school": "Galena",
+      "classification": 1,
+      "district": 8
+    },
+    {
+      "school": "Hurley",
+      "classification": 1,
+      "district": 8
+    },
+    {
+      "school": "Spokane",
+      "classification": 1,
+      "district": 8
+    },
+    {
+      "school": "Ash Grove",
+      "classification": 1,
+      "district": 9
+    },
+    {
+      "school": "Billings",
+      "classification": 1,
+      "district": 9
+    },
+    {
+      "school": "Fair Grove",
+      "classification": 1,
+      "district": 9
+    },
+    {
+      "school": "Marionville",
+      "classification": 1,
+      "district": 9
+    },
+    {
+      "school": "Miller",
+      "classification": 1,
+      "district": 9
+    },
+    {
+      "school": "Mt. Vernon",
+      "classification": 1,
+      "district": 9
+    },
+    {
+      "school": "Strafford",
+      "classification": 1,
+      "district": 9
+    },
+    {
+      "school": "Exeter",
+      "classification": 1,
+      "district": 10
+    },
+    {
+      "school": "Pierce City",
+      "classification": 1,
+      "district": 10
+    },
+    {
+      "school": "Purdy",
+      "classification": 1,
+      "district": 10
+    },
+    {
+      "school": "Sarcoxie",
+      "classification": 1,
+      "district": 10
+    },
+    {
+      "school": "Southwest (Washburn)",
+      "classification": 1,
+      "district": 10
+    },
+    {
+      "school": "Verona",
+      "classification": 1,
+      "district": 10
+    },
+    {
+      "school": "Wheaton",
+      "classification": 1,
+      "district": 10
+    },
+    {
+      "school": "Diamond",
+      "classification": 1,
+      "district": 11
+    },
+    {
+      "school": "Golden City",
+      "classification": 1,
+      "district": 11
+    },
+    {
+      "school": "Greenfield",
+      "classification": 1,
+      "district": 11
+    },
+    {
+      "school": "Jasper",
+      "classification": 1,
+      "district": 11
+    },
+    {
+      "school": "Liberal",
+      "classification": 1,
+      "district": 11
+    },
+    {
+      "school": "Lockwood",
+      "classification": 1,
+      "district": 11
+    },
+    {
+      "school": "New Heights Christian (McAuley Catholic)",
+      "classification": 1,
+      "district": 11
+    },
+    {
+      "school": "Bronaugh",
+      "classification": 1,
+      "district": 12
+    },
+    {
+      "school": "Lakeland",
+      "classification": 1,
+      "district": 12
+    },
+    {
+      "school": "Northeast Vernon County",
+      "classification": 1,
+      "district": 12
+    },
+    {
+      "school": "Osceola",
+      "classification": 1,
+      "district": 12
+    },
+    {
+      "school": "Sheldon",
+      "classification": 1,
+      "district": 12
+    },
+    {
+      "school": "Skyline",
+      "classification": 1,
+      "district": 12
+    },
+    {
+      "school": "Stockton",
+      "classification": 1,
+      "district": 12
+    },
+    {
+      "school": "Adrian",
+      "classification": 1,
+      "district": 13
+    },
+    {
+      "school": "Ballard",
+      "classification": 1,
+      "district": 13
+    },
+    {
+      "school": "Butler",
+      "classification": 1,
+      "district": 13
+    },
+    {
+      "school": "Drexel",
+      "classification": 1,
+      "district": 13
+    },
+    {
+      "school": "Hume",
+      "classification": 1,
+      "district": 13
+    },
+    {
+      "school": "Miami (Amoret)",
+      "classification": 1,
+      "district": 13
+    },
+    {
+      "school": "Rich Hill",
+      "classification": 1,
+      "district": 13
+    },
+    {
+      "school": "Archie",
+      "classification": 1,
+      "district": 14
+    },
+    {
+      "school": "Cole Camp",
+      "classification": 1,
+      "district": 14
+    },
+    {
+      "school": "Crest Ridge",
+      "classification": 1,
+      "district": 14
+    },
+    {
+      "school": "Green Ridge",
+      "classification": 1,
+      "district": 14
+    },
+    {
+      "school": "Kingsville",
+      "classification": 1,
+      "district": 14
+    },
+    {
+      "school": "Lincoln",
+      "classification": 1,
+      "district": 14
+    },
+    {
+      "school": "Windsor",
+      "classification": 1,
+      "district": 14
+    },
+    {
+      "school": "Bunceton",
+      "classification": 1,
+      "district": 15
+    },
+    {
+      "school": "La Monte",
+      "classification": 1,
+      "district": 15
+    },
+    {
+      "school": "Northwest (Hughesville)",
+      "classification": 1,
+      "district": 15
+    },
+    {
+      "school": "Otterville",
+      "classification": 1,
+      "district": 15
+    },
+    {
+      "school": "Sacred Heart",
+      "classification": 1,
+      "district": 15
+    },
+    {
+      "school": "Smithton",
+      "classification": 1,
+      "district": 15
+    },
+    {
+      "school": "Tipton",
+      "classification": 1,
+      "district": 15
+    },
+    {
+      "school": "Concordia",
+      "classification": 1,
+      "district": 16
+    },
+    {
+      "school": "Lone Jack",
+      "classification": 1,
+      "district": 16
+    },
+    {
+      "school": "Santa Fe",
+      "classification": 1,
+      "district": 16
+    },
+    {
+      "school": "St. Paul Lutheran (Concordia)",
+      "classification": 1,
+      "district": 16
+    },
+    {
+      "school": "Sweet Springs",
+      "classification": 1,
+      "district": 16
+    },
+    {
+      "school": "Wellington-Napoleon",
+      "classification": 1,
+      "district": 16
+    }
+  ]
+}
